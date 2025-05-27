@@ -3,6 +3,15 @@
 This Power BI dashboard provides a comprehensive analysis of the housing market across different regions.
 It uses historical data to track sales performance, pricing trends, and sales types with clear and engaging visuals.
 
+✅ Questions (Based on Answered KPIs):
+
+What is the total number of housing units sold?
+How many housing units were sold in the past 12 months?
+What is the total sales volume (in SEK) over the past 12 months?
+What does the time-based sales trend indicate — is there an increase or decrease in housing sales over time?
+Which region had the highest number of housing sales?
+What is the difference between offer price and purchase price across sales?
+
 📊 Key Features & Insights:
 
 Sales by Region (Funnel Chart):
